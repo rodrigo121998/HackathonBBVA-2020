@@ -1,2 +1,2 @@
 # HackathonBBVA-2020
-Solución Equipo Innóvate Perú- Reto Pymes
+Solución  del modelo de machine learning del Equipo Innóvate Perú- Reto Pymes
